@@ -1,5 +1,5 @@
 # DeepDive
 
-## Game made for Ludum Dare 48
+Game made for Ludum Dare 48
 
 Theme: Deeper & Deeper
